@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Intelligence Analysis,and CyberSecurity**
 
-- 📫 How to reach me **swapnilbaviskar9424@gmail.com**
+- 📫 How to reach me **swappycodes@gmail.com**
 
 - ⚡ Fun fact **coffee compiles my day.**
 
